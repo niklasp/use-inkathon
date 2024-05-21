@@ -1,6 +1,6 @@
-export { e as alephzeroSigner, h as allSubstrateWallets, k as enableWallet, i as getSubstrateWallet, j as isWalletInstalled, f as nightly, g as nightlyConnect, d as nova, a as polkadotjs, b as subwallet, c as talisman } from './chunk-E3TXESVT.js';
-import './chunk-R4LN4DEY.js';
-import './chunk-5KPKWO5O.js';
-import './chunk-3AQ3E45C.js';
+export { alephzeroSigner, allSubstrateWallets, enableWallet, getSubstrateWallet, isWalletInstalled, nightly, nightlyConnect, nova, polkadotjs, subwallet, talisman } from './chunk-FD6XJ7QV.js';
+import './chunk-NTTTUCAE.js';
+import './chunk-BYJLOBS4.js';
+import './chunk-TZT3FP6S.js';
 //# sourceMappingURL=out.js.map
 //# sourceMappingURL=wallets.js.map
