@@ -63,7 +63,7 @@
     "lint": "prettier . --check && pnpm eslint .",
     "lint:fix": "prettier . --write && pnpm eslint . --fix",
     "lint:format": "prettier . --write",
-    "typedoc": "typedoc src/index.ts --titleLink \"https://github.com/scio-labs/use-inkathon\"",
+    "typedoc": "typedoc src/index.ts --titleLink \"https://github.com/niklasp/use-inkathon\"",
     "changeset:version": "pnpm run typedoc && changeset version",
     "changeset:publish": "pnpm run build && changeset publish"
   },
